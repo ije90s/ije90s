@@ -3,19 +3,19 @@
 
 ---
 
-## 핵심 강점
+### 핵심 강점
 - Node.js, AWS 기반 고가용성·저지연 백엔드 및 서버리스 아키텍처 설계·운영
 - 트래픽 패턴 분석을 통한 성능 최적화 및 인프라 비용 효율화 경험
 - MQ 비동기 처리, 배포 자동화를 통한 운영 안정성 및 확장성 개선
 
-## 🔧 Tech Stack
+### 🔧 Tech Stack
 - **Backend**: Node.js, NestJS, TypeScript
 - **Database**: RDBMS(MariaDB, MySQL), NoSQL(MongoDB, Redis)
 - **Infra**: AWS, NCP, PM2
 - **DevOps**: GitHub Actions, CodeDeploy, SAM
 
-## 📈 GitHub
-![gitHub stats](https://github-readme-stats.vercel.app/api?username=ije90s&theme=dark&show_icons=true)
+### 📈 GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ije90s&cache_seconds=86400)
 
-## Repository
+### Repository
 - 공개 레포지토리는 공개 가능한 상업 프로젝트 및 개인 학습 프로젝트입니다.
