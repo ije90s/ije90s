@@ -18,4 +18,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ije90s&cache_seconds=86400)
 
 ### Repository
-- 공개 레포지토리는 공개 가능한 상업 프로젝트, 실무 적용 가능성을 검증하기 위한 PoC 프로젝트, 개인 학습용 프로젝트로 구성되어 있습니다.
+현재 3가지 타입으로 레퍼지토리를 공개하고 있습니다.
+- 공개 가능한 상업 프로젝트
+- 실무 적용 가능성을 검증하기 위한 PoC 프로젝트
+- 개인 학습용 프로젝트
+  
