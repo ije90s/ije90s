@@ -1,5 +1,5 @@
 # 👋 안녕하세요, 임지은입니다!
-**백엔드 개발자 | Node.js · NestJS · AWS** | [Email](mailto:ije90.work@gmail.com) / [Resume](https://www.notion.so/ije90-work/2df171d90b8080638626f625543a07e0?source=copy_link)
+**백엔드 개발자 | Node.js · NestJS · AWS** | [Email](mailto:ije90.work@gmail.com)
 
 ---
 ### ✅ SUMMARY
@@ -9,8 +9,6 @@
 - **비용 절감 및 성능 최적화:** 서버리스 도입과 인프라 구조 개선을 통해 운영 비용 절감 및 API 응답 성능 개선 주도
 - **보안 및 시스템 신뢰성:** 대외 연동 서비스에서 암호화·인증 처리를 주도하고, AWS SAM CI/CD 파이프라인 구축
 - **코드 품질 및 유지보수성:** 계층형 아키텍처 도입으로 도메인 간 결합도를 낮추고, Jest 기반의 테스트를 통해 코드 신뢰성 확보
-
-※ 자세한 이력은 위의 이력서를 확인하시기 바랍니다.
 
 ### 🔧 Tech Stack
 - **Backend:** Node.js(Express), NestJS, TypeScript
